@@ -128,7 +128,7 @@ function resetSketch(
   }
 }
 
-export const FidenzaSketch = (p: p5) => {
+export const FlowSketch = (p: p5) => {
   let trailBuffer: p5.Graphics
   let cleanupShader: p5.Shader
 

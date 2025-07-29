@@ -2,4 +2,6 @@
 
 Inspired by [Fidenza](https://www.tylerxhobbs.com/words/fidenza)
 
-![preview](./public/canvas.png)
+![FlowSketch](./public/canvas.png)
+
+![FlowSketch2](./public/canvas2.png)
